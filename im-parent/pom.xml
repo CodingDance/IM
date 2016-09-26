@@ -12,6 +12,7 @@
         <module>imserver</module>
         <module>imcore</module>
         <module>imbiz</module>
+        <module>imroute</module>
     </modules>
 
 
