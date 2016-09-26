@@ -6,7 +6,7 @@ import com.yiting.im.core.ex.UnWritableException;
 /**
  * Created by hzyiting on 2016/9/13.
  */
-interface IMSerializer {
+public interface IMSerializer {
 
 	/**
 	 * 对数据进行编码
